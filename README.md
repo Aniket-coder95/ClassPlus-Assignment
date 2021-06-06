@@ -1,7 +1,7 @@
 download code
 open cmd or terminal where the code is downloaded
-then type for compile-> javac filename.java
-and to run -> java classname
+then type for compile-> javac filename.java (filename is "main.java")
+and to run -> java classname (classname is "check")
 
 
 input 1:
