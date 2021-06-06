@@ -1,3 +1,9 @@
+download code
+open cmd or terminal where the code is downloaded
+then type for compile-> javac filename.java
+and to run -> java classname
+
+
 input 1:
 4 4
 1 2 3
